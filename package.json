@@ -1,9 +1,14 @@
 {
   "name": "atom-consolify",
   "main": "./lib/atom-consolify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Quickly convert lines into consoles statements!",
-  "keywords": ["atom","utility","log","shortcut"],
+  "keywords": [
+    "atom",
+    "utility",
+    "log",
+    "shortcut"
+  ],
   "activationCommands": {
     "atom-workspace": "shikiko/atom/lineToConsole"
   },
