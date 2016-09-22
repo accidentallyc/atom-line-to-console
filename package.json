@@ -1,7 +1,7 @@
 {
   "name": "atom-line-to-console",
   "main": "./lib/atom-consolify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quickly convert lines into consoles statements!",
   "keywords": [
     "atom",
