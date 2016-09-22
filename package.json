@@ -2,12 +2,12 @@
   "name": "atom-consolify",
   "main": "./lib/atom-consolify",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Quickly convert lines into consoles statements!",
+  "keywords": ["atom","utility","log","shortcut"],
   "activationCommands": {
     "atom-workspace": "shikiko/atom/lineToConsole"
   },
-  "repository": "https://github.com/atom/atom-consolify",
+  "repository": "https://github.com/accidentallyc/atom-line-to-console",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
