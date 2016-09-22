@@ -10,3 +10,4 @@
 * You can also manually invoke the command via `line-to-console`
 
 
+_Note: in the packages it says shikiko. That is still me. I'm planning to change names_
